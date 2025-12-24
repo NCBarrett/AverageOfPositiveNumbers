@@ -10,6 +10,6 @@ public class AverageOfPositiveNumbers {
         ArrayList<Integers> ints = new ArrayList<>();
         UserInterface ui = new UserInterface(ints, scanner);
         
-        ui.readInts(ints, scanner);
+        ui.readInts(ints, scanner);        
     }
 }
